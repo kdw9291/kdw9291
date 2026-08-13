@@ -21,6 +21,12 @@
 
 ---
 
+## 📫 CONTACT
+
+📧 kdw9291@kakao.com
+
+---
+
 ## 🛠️ SKILL TREE
 
 ### ⚔️ Backend
@@ -53,10 +59,7 @@
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=kdw9291&show_icons=true&count_private=true"
-  />
+  <img src="./profile/stats.svg" />
 </p>
 
 ---
@@ -78,6 +81,4 @@
 
 ---
 
-## 📫 CONTACT
 
-📧 kdw9291@kakao.com
