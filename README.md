@@ -11,7 +11,10 @@
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/kdw9291"/>
+  <img
+    src="https://ghchart.rshah.org/2ea44f/kdw9291"
+    alt="kdw9291 GitHub contribution graph"
+  />
 </p>
 
 ---
@@ -25,4 +28,4 @@
 
 ---
 
-
+</div>
