@@ -11,7 +11,7 @@
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="./profile/stats.svg" />
+  <img src="https://ghchart.rshah.org/kdw9291"/>
 </p>
 
 ---
